@@ -35,7 +35,7 @@ from add9_creds import get_gspread_client
 SHEET_ID = '1N28JERpj9Es4eTPUO_nGMYWwvRfeXQTfg72BChQEI6Q'
 ADD9 = 'https://docs.google.com/spreadsheets/d/1NqbsDi367m9C9CclTFhovQ9EaRBW80JOz3JoBJD_o6w/edit'
 BEAUTY = 'https://docs.google.com/spreadsheets/d/1Q50ERfvqs16YU58gg5zRJ0kdm8N1NN9XvD52HorK6yE/edit'
-P0_MAX = 100          # P0_시안원본 행 수
+P0_MAX = 200          # P0_시안원본 행 수
 
 try:
     sys.stdout.reconfigure(encoding='utf-8')
